@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.a2025_05_imad_ice_task_3"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.a2025_05_imad_ice_task_3"
